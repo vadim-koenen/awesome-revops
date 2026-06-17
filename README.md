@@ -68,6 +68,7 @@ Every link here has been used in a real engagement or evaluated against one. The
 - [Chili Piper](https://www.chilipiper.com/) — inbound routing and meeting scheduling.
 - [Distribution Engine](https://www.distributionengine.com/) — Salesforce-native routing.
 - [MadKudu](https://www.madkudu.com/) — predictive scoring layer.
+- [Beton Inspector](https://github.com/getbeton/inspector) — open-source signal scoring and routing. Turns PostHog product usage into buying/expansion/churn signals and pushes the warmest accounts into the CRM. Self-hostable (AGPLv3); the open alternative to MadKudu / Pocus / Common Room.
 
 ## Reporting and attribution
 
