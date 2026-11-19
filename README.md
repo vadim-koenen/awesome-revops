@@ -64,9 +64,10 @@ Every link here has been used in a real engagement or evaluated against one. The
 
 ## Routing, scoring, and orchestration
 
-- [LeanData](https://leandata.com/) — lead-to-account matching and routing. Industry default for round-robin and account-based routing.
 - [Chili Piper](https://www.chilipiper.com/) — inbound routing and meeting scheduling.
+- [Deal Approvals & Stage Gate](https://ecosystem.hubspot.com/marketplace/listing/deal-approvals-stage-gate) — native HubSpot deal stage gating and multi-tier approval workflows without requiring Sales Hub Enterprise.
 - [Distribution Engine](https://www.distributionengine.com/) — Salesforce-native routing.
+- [LeanData](https://leandata.com/) — lead-to-account matching and routing. Industry default for round-robin and account-based routing.
 - [MadKudu](https://www.madkudu.com/) — predictive scoring layer.
 
 ## Reporting and attribution
